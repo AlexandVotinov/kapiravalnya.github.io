@@ -46,6 +46,12 @@
     text-align: right;
 }
 
+.main-container .header div:nth-child(4) img{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
 .main-container .header .worktime p:nth-child(2){
     color: #dc2918;
     font-weight: 900;
