@@ -91,7 +91,7 @@
             display: grid;
             grid-template-columns: 1fr 1fr 1fr 1fr;
             grid-template-rows: auto;
-            background: linear-gradient(45deg, #fff, #fefefe);
+            background: linear-gradient(45deg, #fff, #dfdfdf);
             padding: 10px;
         }
         
