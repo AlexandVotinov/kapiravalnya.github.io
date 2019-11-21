@@ -22,8 +22,8 @@
     margin: 0 auto;
     display: grid;
     grid-template-columns: 1.5fr 1fr 1fr 1fr;
-    grid-column-gap: 0px;
-    width: 100%;
+    grid-column-gap: 10px;
+    width: 95%;
     color: #666;
 }
 
@@ -62,7 +62,7 @@
     margin: 0 auto;
     grid-template-columns: auto auto auto auto auto auto;
     grid-column-gap: 10px;
-    width: 90%;
+    width: 100%;
     border-bottom: 1px solid black;
 }
 
