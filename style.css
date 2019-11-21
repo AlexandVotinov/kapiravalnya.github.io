@@ -23,7 +23,7 @@
     display: grid;
     grid-template-columns: 1.5fr 1fr 1fr 1fr;
     grid-column-gap: 10px;
-    width: 90%;
+    width: 100%;
     color: #666;
 }
 
