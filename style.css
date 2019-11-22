@@ -176,3 +176,37 @@ main{
     width: 80%;
     margin: 50px auto;
 }
+
+
+
+.map-box{
+    width: 100%;
+    margin: 10px auto;
+}
+
+.map-box-map, .map-box-info{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.map-box-info img {
+    display: inline-block;
+}
+
+.footer{
+    width: 100%;
+    min-height: 100px;
+    background: #121615;
+}
+
+
+
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+   }
