@@ -190,6 +190,8 @@ main{
     width: 100%;
     min-height: 100px;
     background: #121615;
+    padding: 20px;
+    color: white;
 }
 
 
