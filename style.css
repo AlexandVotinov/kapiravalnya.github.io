@@ -180,18 +180,11 @@ main{
 
 
 .map-box{
-    width: 100%;
-    margin: 10px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 10px;
 }
 
-.map-box-map, .map-box-info{
-    display: inline-block;
-    vertical-align: top;
-}
-
-.map-box-info img {
-    display: inline-block;
-}
 
 .footer{
     width: 100%;
